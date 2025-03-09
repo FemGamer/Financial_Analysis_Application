@@ -1,3 +1,6 @@
 # Financial_Analysis_Application
 The Financial Analysis App for all sorts of financial and statistical calculations.
-![Image](Financial_Analysis_Application/FA App.jpg)
+
+
+![Example Image](https://github.com/FemGamer/Financial_Analysis_Application/blob/main/FA%20App.jpg)
+
